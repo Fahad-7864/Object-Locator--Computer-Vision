@@ -6,7 +6,7 @@ This Python application demonstrates advanced image processing techniques to det
 - **Color Detection:** The application identifies specific colored objects within an image based on the HSV color space.
 - **Perspective Warp:** It applies a perspective warp to correct image orientation, ensuring more accurate detection.
 - **Contour Detection:** By using contour detection, the app isolates the targeted objects, allowing for precise identification of their position.
-- **Coordinates and Bearing Calculation:** After detecting objects, the app calculates and displays the coordinates and the directional bearing between them. These results are output in a structured format.
+- **Coordinates and Bearing Calculation:** After detecting objects, the app calculates and displays the coordinates and the directional bearing between them.
   
 ## Technologies Used
 

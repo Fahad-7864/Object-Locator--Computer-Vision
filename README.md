@@ -1,5 +1,5 @@
 # Object-Locator-Computer-Vision
-This Python application demonstrates advanced image processing techniques to detect and locate objects based on color within images. Utilizing the OpenCV library, the app performs image reading, color detection using HSV range segmentation, and various transformations to enhance the image for better object identification.
+This Python application demonstrates advanced image processing techniques to detect and locate objects based on color within images. Using the OpenCV library, the app performs image reading, color detection using HSV range segmentation, and various transformations to enhance the image for better object identification.
 
 ## Features
 
